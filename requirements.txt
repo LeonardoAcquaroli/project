@@ -1,7 +1,0 @@
-torch
-torchvision
-pandas
-pyarrow
-imbalanced-learn
-scikit-learn
-matplotlib
