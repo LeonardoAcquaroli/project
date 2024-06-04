@@ -5,3 +5,5 @@ pyarrow
 imbalanced-learn
 scikit-learn
 matplotlib
+google-cloud-storage
+tqdm
