@@ -1,5 +1,6 @@
 torch
 torchvision
+torchviz
 pandas
 pyarrow
 imbalanced-learn
@@ -7,3 +8,5 @@ scikit-learn
 matplotlib
 google-cloud-storage
 tqdm
+dropblock
+optuna
