@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LeonardoAcquaroli/project/blob/main/colab_runnable_notebook.ipynb)
+
 # Prado image classification 🧑🏻‍🎨
 ## Project for the course Algorithms for Massive Datasets at Unimi
 
